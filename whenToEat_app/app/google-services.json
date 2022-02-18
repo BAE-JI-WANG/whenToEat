@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "999730262326",
+    "firebase_url": "https://androidteam-f41c7-default-rtdb.firebaseio.com",
+    "project_id": "androidteam-f41c7",
+    "storage_bucket": "androidteam-f41c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999730262326:android:ebe4420cd20184b1f5c397",
+        "android_client_info": {
+          "package_name": "com.Hustar.androidteam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "999730262326-oq6qk3c22bkqumbfchlthaf3vpolcf15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_mk3LtFVwbCv96NVpILqs8XspYIsw5Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "999730262326-oq6qk3c22bkqumbfchlthaf3vpolcf15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
